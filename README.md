@@ -1,11 +1,40 @@
+🎮 𝙷𝚎𝚢, 𝙸'𝚖 𝙳𝚊𝚗𝚒𝚒𝚕 | 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝 🧪
+ 
+🌌 *Coding by day, 3d modeling by night* 🌌
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DanVoron&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DanVoron&theme=dark&hide_border=false)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=AD00FF&width=435&lines=🚀+Coding+since+2015;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack+nomad)](https://git.io/typing-svg)
 
----
-[![](https://visitcount.itsvg.in/api?id=DanVoron&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Tech Arsenal
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### 🎨 Creative Tools
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanVoron&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanVoron&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=HLSL,ShaderLab&title_color=AD00FF"/>
+</div>
+
+![Snake animation](https://github.com/DanVoron/DanVoron/blob/output/github-contribution-grid-snake.svg)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DanVoron&theme=radical&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanVoron&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+🌟 *"First solve the problem, then write the code" - John Johnson* 🌟
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanVoron.DanVoron)](https://github.com/DanVoron)
