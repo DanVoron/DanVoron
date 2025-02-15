@@ -1,7 +1,5 @@
 🎮 𝙷𝚎𝚢, 𝙸'𝚖 𝙳𝚊𝚗𝚒𝚒𝚕 | 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝 🧪
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=D83B7D&width=435&lines=🚀+Coding+since+2018;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack)](https://git.io/typing-svg)
-
 ### 🛠️ Tech Arsenal
 
 #### 💻 Languages & Frameworks
