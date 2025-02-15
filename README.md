@@ -2,7 +2,7 @@
  
 🌌 *Coding by day, 3d modeling by night* 🌌
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=004524&width=435&lines=🚀+Coding+since+2018;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=D83B7D&width=435&lines=🚀+Coding+since+2018;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack)](https://git.io/typing-svg)
 
 ### 🛠️ Tech Arsenal
 
