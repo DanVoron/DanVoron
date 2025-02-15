@@ -2,7 +2,7 @@
  
 🌌 *Coding by day, 3d modeling by night* 🌌
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=AD00FF&width=435&lines=🚀+Coding+since+2015;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack+nomad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=004524&width=435&lines=🚀+Coding+since+2018;🎨+Pixel+art+enthusiast;🔮+Tech+magician;🌐+Fullstack)](https://git.io/typing-svg)
 
 ### 🛠️ Tech Arsenal
 
@@ -27,14 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanVoron&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=HLSL,ShaderLab&title_color=AD00FF"/>
 </div>
 
-![Snake animation](https://github.com/DanVoron/DanVoron/blob/output/github-contribution-grid-snake.svg)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DanVoron&theme=radical&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=DanVoron&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-🌟 *"First solve the problem, then write the code" - John Johnson* 🌟
-
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DanVoron.DanVoron)](https://github.com/DanVoron)
