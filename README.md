@@ -16,15 +16,3 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-### 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanVoron&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanVoron&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=HLSL,ShaderLab&title_color=AD00FF"/>
-</div>
-
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanVoron&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
